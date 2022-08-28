@@ -19,7 +19,7 @@
 0. clone it
 1. cd your downloaded file
 2. npm install
-3. nodemone it
+3. nodemon it
 4. browsing http://localhost:3000
 
 You get it!
